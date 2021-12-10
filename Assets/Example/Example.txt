@@ -1,0 +1,39 @@
+1
+00:00:00,000 --> 00:00:08,000
+There is only one Lord of the Ring, only one who can bend it to his will. And he does not share power.
+
+2
+00:00:08,000 --> 00:00:16,000
+That there’s some good in this world, Mr. Frodo… and it’s worth fighting for.
+
+3
+00:00:16,000 --> 00:00:24,000
+<b>Even the smallest person can change the course of the future.</b>
+
+4
+00:00:24,000 --> 00:00:32,000
+<i>We swears, to serve the master of the Precious. We will swear on… on the Precious.</i>
+
+5
+00:00:32,000 --> 00:00:40,000
+<color=red>I am Gandalf the White. And I come back to you now… at the turn of the tide.</color>
+
+6
+00:00:40,000 --> 00:00:48,000
+<color=blue>Oh, it’s quite simple. If you are a friend, you speak the password, and the doors will open.</color>
+
+7
+00:00:48,000 --> 00:00:56,000
+<b><i><color=red>Well, what can I tell you? Life in the wide world goes on much as it has this past Age, full of its own comings and goings, scarcely aware of the existence of Hobbits, for which I am very thankful.</b></i></color>
+
+8
+00:00:56,000 --> 00:01:04,000
+<color=black>For the time will soon come when Hobbits will shape the fortunes of all.</color>
+
+9
+00:01:04,000 --> 00:01:12,000
+<color=white>There is no curse in Elvish, Entish, or the tongues of Men for this treachery.</color>
+
+10
+00:01:12,000 --> 00:01:20,000
+<color=yellow>I would rather share one lifetime with you than face all the Ages of this world alone.</color>
