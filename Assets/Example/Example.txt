@@ -1,5 +1,6 @@
 1
 00:00:00,000 --> 00:00:08,000
+<<<<<<< HEAD
 There is only one Lord of the Ring, only one who can bend it to his will. And he does not share power.
 
 2
@@ -9,6 +10,17 @@ That there’s some good in this world, Mr. Frodo… and it’s worth fighting f
 3
 00:00:16,000 --> 00:00:24,000
 <b>Even the smallest person can change the course of the future.</b>
+=======
+URUK-HAI GROWLING
+
+2
+00:00:08,000 --> 00:00:16,000
+MORE GROWLING
+
+3
+00:00:16,000 --> 00:00:24,000
+What's happening out there? Shall I describe it to you? Or would you like me to find you a box?
+>>>>>>> main
 
 4
 00:00:24,000 --> 00:00:32,000
@@ -16,6 +28,7 @@ That there’s some good in this world, Mr. Frodo… and it’s worth fighting f
 
 5
 00:00:32,000 --> 00:00:40,000
+<<<<<<< HEAD
 <color=red>I am Gandalf the White. And I come back to you now… at the turn of the tide.</color>
 
 6
@@ -37,3 +50,26 @@ That there’s some good in this world, Mr. Frodo… and it’s worth fighting f
 10
 00:01:12,000 --> 00:01:20,000
 <color=yellow>I would rather share one lifetime with you than face all the Ages of this world alone.</color>
+=======
+I am Gandalf the White. And I come back to you now… at the turn of the tide.
+
+6
+00:00:40,000 --> 00:00:48,000
+Oh, it’s quite simple. If you are a friend, you speak the password, and the doors will open.
+
+7
+00:00:48,000 --> 00:00:56,000
+Well, what can I tell you? Life in the wide world goes on much as it has this past Age, full of its own comings and goings, scarcely aware of the existence of Hobbits, for which I am very thankful.
+
+8
+00:00:56,000 --> 00:01:04,000
+For the time will soon come when Hobbits will shape the fortunes of all.
+
+9
+00:01:04,000 --> 00:01:12,000
+There is no curse in Elvish, Entish, or the tongues of Men for this treachery.
+
+10
+00:01:12,000 --> 00:01:20,000
+I would rather share one lifetime with you than face all the Ages of this world alone.
+>>>>>>> main
