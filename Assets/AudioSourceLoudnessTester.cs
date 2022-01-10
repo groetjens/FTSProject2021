@@ -11,7 +11,7 @@ public class AudioSourceLoudnessTester : MonoBehaviour
 	public float clipLoudness;
 	private float[] clipSampleData;
 
-	public GameObject cube;
+	public GameObject sprite;
 	public float sizeFactor = 1;
 
 	public float minSize = 0;
@@ -40,7 +40,7 @@ public class AudioSourceLoudnessTester : MonoBehaviour
 
 			clipLoudness *= sizeFactor;
 			clipLoudness = Mathf.Clamp(clipLoudness, minSize, maxSize);
-			cube.transform.localScale = new Vector3(clipLoudness, clipLoudness, clipLoudness);
+			sprite.transform.localScale = new Vector3(clipLoudness, clipLoudness, clipLoudness);
 		}
 	}
 }
