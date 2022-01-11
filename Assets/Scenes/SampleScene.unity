@@ -868,7 +868,7 @@ MonoBehaviour:
   updateStep: 0.01
   sampleDataLength: 1024
   clipLoudness: 0
-  cube: {fileID: 1205219332}
+  sprite: {fileID: 1205219332}
   sizeFactor: 10
   minSize: 0
   maxSize: 500
