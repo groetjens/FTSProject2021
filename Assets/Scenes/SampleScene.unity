@@ -149,7 +149,7 @@ VideoPlayer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 156576250}
   m_Enabled: 1
-  m_VideoClip: {fileID: 32900000, guid: cb99a4906daec90408bd083da95cf060, type: 3}
+  m_VideoClip: {fileID: 32900000, guid: e3f3d39604448ce46b3dcf838facf56a, type: 3}
   m_TargetCameraAlpha: 1
   m_TargetCamera3DLayout: 0
   m_TargetCamera: {fileID: 0}
@@ -244,11 +244,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 156576250}
   m_LocalRotation: {x: 0, y: -0.7071068, z: 0.7071068, w: 0}
-<<<<<<< HEAD
-  m_LocalPosition: {x: 0.91, y: 0.12, z: 33.76}
-=======
   m_LocalPosition: {x: 0.91, y: 0.12, z: 38.08}
->>>>>>> Test
   m_LocalScale: {x: 1.92, y: 1.08, z: 1}
   m_Children:
   - {fileID: 1307640971}
@@ -775,7 +771,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 7
+  m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &945414488
 GameObject:
@@ -935,7 +931,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 8
+  m_RootOrder: 9
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &1205219335
 MonoBehaviour:
@@ -1101,7 +1097,7 @@ MonoBehaviour:
   updateStep: 0.001
   sampleDataLength: 1024
   clipLoudness: 0
-  cube: {fileID: 536831887}
+  sprite: {fileID: 536831887}
   sizeFactor: 50
   minSize: 0
   maxSize: 0.5
