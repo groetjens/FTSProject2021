@@ -955,10 +955,30 @@ PrefabInstance:
       propertyPath: audioData
       value: 
       objectReference: {fileID: 2107879973}
+    - target: {fileID: 5734610850692020300, guid: 735a769612bca824887655e417436052,
+        type: 3}
+      propertyPath: Sensitivity
+      value: 50
+      objectReference: {fileID: 0}
+    - target: {fileID: 5734610850692020300, guid: 735a769612bca824887655e417436052,
+        type: 3}
+      propertyPath: StartScale.x
+      value: -2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5734610850692020300, guid: 735a769612bca824887655e417436052,
+        type: 3}
+      propertyPath: StartScale.y
+      value: -2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5734610850692020300, guid: 735a769612bca824887655e417436052,
+        type: 3}
+      propertyPath: StartScale.z
+      value: -2
+      objectReference: {fileID: 0}
     - target: {fileID: 5734610850692020301, guid: 735a769612bca824887655e417436052,
         type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5734610850802409730, guid: 735a769612bca824887655e417436052,
         type: 3}
@@ -1943,10 +1963,35 @@ PrefabInstance:
       propertyPath: audioData
       value: 
       objectReference: {fileID: 2107879973}
+    - target: {fileID: 5734610850692020300, guid: 735a769612bca824887655e417436052,
+        type: 3}
+      propertyPath: Sensitivity
+      value: 50
+      objectReference: {fileID: 0}
+    - target: {fileID: 5734610850692020300, guid: 735a769612bca824887655e417436052,
+        type: 3}
+      propertyPath: StartScale.x
+      value: -2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5734610850692020300, guid: 735a769612bca824887655e417436052,
+        type: 3}
+      propertyPath: StartScale.y
+      value: -2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5734610850692020300, guid: 735a769612bca824887655e417436052,
+        type: 3}
+      propertyPath: StartScale.z
+      value: -2
+      objectReference: {fileID: 0}
     - target: {fileID: 5734610850692020301, guid: 735a769612bca824887655e417436052,
         type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5734610850692020303, guid: 735a769612bca824887655e417436052,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 20
       objectReference: {fileID: 0}
     - target: {fileID: 5734610850802409730, guid: 735a769612bca824887655e417436052,
         type: 3}
