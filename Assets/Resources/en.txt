@@ -1,240 +1,276 @@
-1
-00:00:05,400 --> 00:00:07,400
-Retreat!
+﻿1
+00:01:05,550 --> 00:01:07,340
+Hello, gorgeous
 
 2
-00:00:07,400 --> 00:00:08,714
- 
+00:01:07,440 --> 00:01:08,090
+Hello
 
 3
-00:00:08,714 --> 00:00:14,254
-The city is breached, fall back to the second level!
+00:01:08,190 --> 00:01:09,650
+Oh hey, it's you
 
 4
-00:00:17,540 --> 00:00:18,900
-Get the women and children out!
+00:01:09,750 --> 00:01:11,750
+No, not your new coat
 
 5
-00:00:18,900 --> 00:00:19,400
- 
+00:01:12,080 --> 00:01:15,260
+I just finished scrubbing make-up part
+of your Indian costume
 
 6
-00:00:19,400 --> 00:00:20,355
-Get them out!
+00:01:15,590 --> 00:01:16,010
+Half hour, Please miss Bryce
 
 7
-00:00:20,355 --> 00:00:20,855
- 
+00:01:16,010 --> 00:01:16,690
+Thanks, John.
+Half hour, Please miss Bryce
 
 8
-00:00:21,140 --> 00:00:22,479
-Retreat!
+00:01:16,690 --> 00:01:16,790
+Half hour, Please miss Bryce
 
 9
-00:00:25,360 --> 00:00:29,100
-Move into the city, kill all in your path.
+00:01:16,790 --> 00:01:16,910
+Mr. Arnstein back yet?
+Half hour, Please miss Bryce
 
 10
-00:00:37,480 --> 00:00:38,820
-Take them down!
+00:01:16,910 --> 00:01:18,760
+Mr. Arnstein back yet?
 
 11
-00:01:00,340 --> 00:01:01,620
-Fight!
+00:01:18,860 --> 00:01:21,730
+No, not yet. I'll keep an eye out
 
 12
-00:01:01,620 --> 00:01:03,000
-Fight to the last man!
+00:01:21,830 --> 00:01:23,620
+Thanks
 
 13
-00:01:03,000 --> 00:01:04,780
-Fight for your lives!
+00:01:23,720 --> 00:01:25,480
+What time's the train?
 
 14
-00:01:04,780 --> 00:01:06,000
-Gandalf!
+00:01:25,580 --> 00:01:27,430
+the Telegram just said tonight?
 
 15
-00:01:10,660 --> 00:01:12,020
-Gandalf!
+00:01:27,530 --> 00:01:29,020
+You think you'll go to the house first?
 
 16
-00:01:12,020 --> 00:01:13,500
-Denethor has lost his mind!
+00:01:29,130 --> 00:01:31,470
+My mom is there in case
+she'll call if he shows
 
 17
-00:01:14,840 --> 00:01:16,200
-He's burning Faramir alive!
+00:01:32,220 --> 00:01:33,880
+you nervous.
 
 18
-00:01:16,740 --> 00:01:17,260
-Come!
+00:01:33,990 --> 00:01:35,990
+Nervous me, yeah.
 
 19
-00:01:18,020 --> 00:01:18,520
-Quickly!
+00:01:39,720 --> 00:01:41,750
+Nervous, excited, happy.
 
 20
-00:01:25,960 --> 00:01:27,420
-Go back to the abyss.
+00:01:41,850 --> 00:01:44,330
+Scared off. You name it I am it.
 
 21
-00:01:28,740 --> 00:01:31,960
-Fall into the nothingness that awaits you and your master!
+00:01:45,800 --> 00:01:47,410
+Of course she's nervous.
 
 22
-00:01:32,420 --> 00:01:38,100
-Do you not know death when you see it, old man?
+00:01:47,520 --> 00:01:49,120
+who woudn't be nervous.
 
 23
-00:01:39,460 --> 00:01:42,160
-This is my hour!
+00:01:49,220 --> 00:01:51,220
+Too bad you got a show to do.
 
 24
-00:02:03,880 --> 00:02:05,880
-You have failed...
+00:01:51,750 --> 00:01:54,920
+Oh, stop, thank god, I got a show to do.
 
 25
-00:02:07,960 --> 00:02:11,160
-The world of men will fall...
+00:01:55,220 --> 00:01:56,110
+What's she got to be?
 
 26
-00:02:57,940 --> 00:02:59,940
-Gondor!
+00:01:56,220 --> 00:01:59,620
+Nervous Fannies been making a living
+on the stage since she was 13
 
 27
-00:03:09,760 --> 00:03:11,720
-Courage Merry,
+00:01:59,720 --> 00:02:01,570
+12
 
 28
-00:03:11,720 --> 00:03:13,740
-courage for our friends.
+00:02:01,670 --> 00:02:02,920
+11 Mama
 
 29
-00:03:17,600 --> 00:03:19,600
-Form ranks, you maggots!
+00:02:03,020 --> 00:02:04,030
+I thought 13.
 
 30
-00:03:19,600 --> 00:03:20,860
-Form ranks!
+00:02:04,130 --> 00:02:05,800
+But what do I know?
 
 31
-00:03:20,860 --> 00:03:23,300
-Pikes in front, archers behind!
+00:02:05,910 --> 00:02:08,780
+Hey, anyway, it's a lot of years.
 
 32
-00:03:32,280 --> 00:03:33,300
-Éomer!
+00:02:08,910 --> 00:02:10,910
+What are you staring at honey?
 
 33
-00:03:33,300 --> 00:03:35,320
-Take your Éored down the left flank!
+00:02:11,660 --> 00:02:15,210
+Years all those years.
 
 34
-00:03:35,320 --> 00:03:36,120
-Make ready!
+00:02:15,990 --> 00:02:17,360
+enough staring.
 
 35
-00:03:36,720 --> 00:03:37,700
-Gamling,
+00:02:17,460 --> 00:02:19,460
+Are we playing cards or what?
 
 36
-00:03:37,700 --> 00:03:39,480
-follow the kings banner down the center.
+00:02:25,860 --> 00:02:26,750
+Oh. I'm out,
 
 37
-00:03:39,840 --> 00:03:40,840
-Grimbold!
+00:02:26,850 --> 00:02:28,030
+I raised
 
 38
-00:03:40,840 --> 00:03:43,120
-take your company right after you pass the wall!
+00:02:28,130 --> 00:02:30,130
+she raised?
 
 39
-00:03:43,600 --> 00:03:44,380
-Forth!
+00:02:30,860 --> 00:02:33,990
+I think you're bluffing, Mr. Straight
+cash bluffing.
 
 40
-00:03:44,380 --> 00:03:45,660
-And fear no darkness!
+00:02:34,470 --> 00:02:35,920
+I think so.
 
 41
-00:03:46,940 --> 00:03:47,800
-Arise!
+00:02:36,020 --> 00:02:37,510
+I think so.
 
 42
-00:03:47,800 --> 00:03:49,540
-Arise! Riders of Théoden!
+00:02:37,610 --> 00:02:39,220
+You with the glass face.
 
 43
-00:03:50,740 --> 00:03:52,400
-Spears shall be shaken!
+00:02:39,330 --> 00:02:40,780
+I think you got nothing.
 
 44
-00:03:53,360 --> 00:03:55,193
-Shields shall be splintered!
+00:02:40,880 --> 00:02:41,890
+Sarah straight.
 
 45
-00:03:56,340 --> 00:03:57,480
-A sword day!
+00:02:42,000 --> 00:02:45,530
+Gosh, you haven't got a second ace.
 
 46
-00:03:57,800 --> 00:03:59,017
-A red day!
+00:02:46,580 --> 00:02:50,970
+Then my advice to you hunny
+is a comes up your mouth
 
 47
-00:04:00,220 --> 00:04:03,440
-Ere the sun rises!
+00:02:51,570 --> 00:02:53,570
+and put up the money.
 
 48
-00:04:10,620 --> 00:04:12,620
-Whatever happens,
+00:02:57,330 --> 00:02:59,780
+There, how you have bluff with nothing
 
 49
-00:04:12,620 --> 00:04:15,340
-stay with me, I look after you.
+00:03:00,020 --> 00:03:02,160
+if ya got some. it ain't bluffing
 
 50
-00:04:22,140 --> 00:04:23,260
-Ride now!
+00:03:03,440 --> 00:03:04,870
+you show them as a straight guy.
 
 51
-00:04:25,460 --> 00:04:27,240
-Ride now!
+00:03:04,970 --> 00:03:06,970
+Speaking of bluff them with nothing.
 
 52
-00:04:28,340 --> 00:04:29,580
-Ride!
+00:03:07,130 --> 00:03:09,660
+Oh, and Mr. Ziegfeld is waiting for you.
 
 53
-00:04:29,580 --> 00:04:30,980
-Ride for ruin!
+00:03:09,890 --> 00:03:14,300
+You hear that Mr. Striker, Ziegfeld
+is waiting for me.
 
 54
-00:04:31,260 --> 00:04:34,160
-and the worlds ending!
+00:03:14,460 --> 00:03:15,880
+Not yet for you.
 
 55
-00:04:36,080 --> 00:04:37,640
-Death!
+00:03:15,990 --> 00:03:17,470
+Ziegfeld ain't waiting.
 
 56
-00:04:48,060 --> 00:04:50,200
-Death!
+00:03:17,580 --> 00:03:21,410
+OK, so maybe today it's only Tom Kenny,
+but he's got a theater
 
 57
-00:04:55,093 --> 00:04:58,193
-Forth Eorlingas!
+00:03:21,530 --> 00:03:23,170
+with a stage and an audience.
 
 58
-00:05:40,920 --> 00:05:42,100
-Fire!
+00:03:23,270 --> 00:03:25,270
+It's not about what he's got.
 
 59
-00:05:52,020 --> 00:05:53,480
-Charge!
+00:03:25,380 --> 00:03:26,830
+It's what she don't.
 
 60
-00:05:53,480 --> 00:05:54,900
-Fire at will!
+00:03:26,940 --> 00:03:28,090
+What don't I got?
+
+61
+00:03:28,190 --> 00:03:30,500
+Listen fanny,
+when you when you were little
+
+62
+00:03:30,600 --> 00:03:33,920
+and made with a funny faces? It was cute.
+
+63
+00:03:34,140 --> 00:03:35,470
+My condolences.
+
+64
+00:03:35,570 --> 00:03:40,260
+You are no longer cute, then darling
+for a girl on average your pleasure.
+
+65
+00:03:40,890 --> 00:03:45,510
+But when people are paying good money,
+especially the male element,
+
+66
+00:03:45,890 --> 00:03:49,100
+they want a little something to. Look at.
 
