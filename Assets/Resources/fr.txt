@@ -1,0 +1,240 @@
+1
+00:00:05,400 --> 00:00:07,400
+Retraite!
+
+2
+00:00:07,400 --> 00:00:08,714
+ 
+
+3
+00:00:08,714 --> 00:00:14,254
+La ville est tombée allons au deuxième niveau !
+
+4
+00:00:17,540 --> 00:00:18,900
+Emmenez les femmes et les enfants !
+
+5
+00:00:18,900 --> 00:00:19,400
+ 
+
+6
+00:00:19,400 --> 00:00:20,355
+Sortez les de la !
+
+7
+00:00:20,355 --> 00:00:20,855
+ 
+
+8
+00:00:21,140 --> 00:00:22,479
+Retraite !
+
+9
+00:00:25,360 --> 00:00:29,100
+Aller dans la ville, tuez tout sur votre passage.
+
+10
+00:00:37,480 --> 00:00:38,820
+Faites les tomber !
+
+11
+00:01:00,340 --> 00:01:01,620
+Au combat !
+
+12
+00:01:01,620 --> 00:01:03,000
+Fight to the last man!
+
+13
+00:01:03,000 --> 00:01:04,780
+Battez-vous pour vos vies !
+
+14
+00:01:04,780 --> 00:01:06,000
+Gandalf!
+
+15
+00:01:10,660 --> 00:01:12,020
+Gandalf!
+
+16
+00:01:12,020 --> 00:01:13,500
+Denethor a perdu l'esprit!
+
+17
+00:01:14,840 --> 00:01:16,200
+Il est en train de brûler Faramir vivant
+
+18
+00:01:16,740 --> 00:01:17,260
+Viens!
+
+19
+00:01:18,020 --> 00:01:18,520
+Vite!
+
+20
+00:01:25,960 --> 00:01:27,420
+Retourne dans les abysses !
+
+21
+00:01:28,740 --> 00:01:31,960
+Tombez dans le néant qui vous attend vous et votre maître !
+
+22
+00:01:32,420 --> 00:01:38,100
+Tu ne reconnais pas la mort quand tu la vois vieil homme ?
+
+23
+00:01:39,460 --> 00:01:42,160
+C'est mon heure !
+
+24
+00:02:03,880 --> 00:02:05,880
+Tu as echoué...
+
+25
+00:02:07,960 --> 00:02:11,160
+Le monde des hommes va tomber
+
+26
+00:02:57,940 --> 00:02:59,940
+Gondor!
+
+27
+00:03:09,760 --> 00:03:11,720
+Courage Merry,
+
+28
+00:03:11,720 --> 00:03:13,740
+courage pour nos amis.
+
+29
+00:03:17,600 --> 00:03:19,600
+Formez les rangs, insignifiants!
+
+30
+00:03:19,600 --> 00:03:20,860
+Formez les rangs! 
+
+31
+00:03:20,860 --> 00:03:23,300
+Piquier à l'avant, les archers derrière!
+
+32
+00:03:32,280 --> 00:03:33,300
+Éomer!
+
+33
+00:03:33,300 --> 00:03:35,320
+Amenez votre Éored sur le flanc gauche !
+
+34
+00:03:35,320 --> 00:03:36,120
+Soyez prêt !
+
+35
+00:03:36,720 --> 00:03:37,700
+Viel homme,
+
+36
+00:03:37,700 --> 00:03:39,480
+Suivez la bannière du rois au centre.
+
+37
+00:03:39,840 --> 00:03:40,840
+Grimbold!
+
+38
+00:03:40,840 --> 00:03:43,120
+Prenez votre compagnie juste après avoir passé le mur !
+
+39
+00:03:43,600 --> 00:03:44,380
+Forth!
+
+40
+00:03:44,380 --> 00:03:45,660
+Et ne crains pas l'obscurité!
+
+41
+00:03:46,940 --> 00:03:47,800
+Ils arrivent!
+
+42
+00:03:47,800 --> 00:03:49,540
+Ils arrivent! Les cavaliers de Théoden!
+
+43
+00:03:50,740 --> 00:03:52,400
+Les lances vont êtres défaites!
+
+44
+00:03:53,360 --> 00:03:55,193
+Les boucliers seront brisés!
+
+45
+00:03:56,340 --> 00:03:57,480
+Le jour des épées!
+
+46
+00:03:57,800 --> 00:03:59,017
+Le jour du sang !
+
+47
+00:04:00,220 --> 00:04:03,440
+Avant que le soleil ne se lève !
+
+48
+00:04:10,620 --> 00:04:12,620
+Quoiqu'il advienne
+
+49
+00:04:12,620 --> 00:04:15,340
+Reste avec moi, je veille sur toi
+
+50
+00:04:22,140 --> 00:04:23,260
+Pars maintenant!
+
+51
+00:04:25,460 --> 00:04:27,240
+Maintenant!
+
+52
+00:04:28,340 --> 00:04:29,580
+Pars!
+
+53
+00:04:29,580 --> 00:04:30,980
+Pars pour la ruine!
+
+54
+00:04:31,260 --> 00:04:34,160
+Et pour la fin des mondes
+
+55
+00:04:36,080 --> 00:04:37,640
+La mort !
+
+56
+00:04:48,060 --> 00:04:50,200
+La mort !
+
+57
+00:04:55,093 --> 00:04:58,193
+Eorlingas le quatrième!
+
+58
+00:05:40,920 --> 00:05:42,100
+Feu !
+
+59
+00:05:52,020 --> 00:05:53,480
+Chargez!
+
+60
+00:05:53,480 --> 00:05:54,900
+Feu a volonté!
+

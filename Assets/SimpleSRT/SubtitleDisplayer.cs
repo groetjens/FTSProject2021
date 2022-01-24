@@ -26,6 +26,8 @@ public class SubtitleDisplayer : MonoBehaviour
     yield return FadeTextOut(currentlyDisplayingText);
     yield return FadeTextOut(fadedOutText);
 
+    Subtitle = setSubtitle();
+
     var parser = new SRTParser(Subtitle);
 
     var startTime = Time.time;
@@ -71,6 +73,7 @@ public class SubtitleDisplayer : MonoBehaviour
     }
   }
 
+
   void OnValidate()
   {
     FadeTime = ((int)(FadeTime * 10)) / 10f;
@@ -94,4 +97,26 @@ public class SubtitleDisplayer : MonoBehaviour
   {
     yield return DOTween.To(() => text.color, color => text.color = color, toColor, FadeTime).SetEase(ease).WaitForCompletion();
   }
+
+    public TextAsset setSubtitle()
+    {
+        var language = SubLanguageController.language;
+        
+        if (language == "fr")
+        {
+            TextAsset sub = (TextAsset) Resources.Load("fr");
+            return sub;
+        }
+        else if (language == "no")
+        {
+            TextAsset sub = (TextAsset) Resources.Load("no");
+            return sub;
+        }
+        else
+        {
+            TextAsset sub = (TextAsset) Resources.Load("en");
+            return sub;
+        }
+
+    }
 }
