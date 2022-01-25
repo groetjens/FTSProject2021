@@ -1,240 +1,275 @@
 1
-00:00:05,400 --> 00:00:07,400
-Retraite!
+00:01:05,550 --> 00:01:07,340
+Bonjour, beauté splendide
 
 2
-00:00:07,400 --> 00:00:08,714
- 
+00:01:07,440 --> 00:01:08,090
+Bonjour
 
 3
-00:00:08,714 --> 00:00:14,254
-La ville est tombée allons au deuxième niveau !
+00:01:08,190 --> 00:01:09,650
+Oh hé, c'est toi
 
 4
-00:00:17,540 --> 00:00:18,900
-Emmenez les femmes et les enfants !
+00:01:09,750 --> 00:01:11,750
+Non, pas ton nouveau manteau
 
 5
-00:00:18,900 --> 00:00:19,400
- 
+00:01:12,080 --> 00:01:15,260
+Je viens de finir de frotter la partie maquillage
+de ton costume indien
 
 6
-00:00:19,400 --> 00:00:20,355
-Sortez les de la !
+00:01:15,590 --> 00:01:16,010
+Une demi-heure, s'il vous plaît, madame Bryce
 
 7
-00:00:20,355 --> 00:00:20,855
- 
+00:01:16,010 --> 00:01:16,690
+Merci, Jean.
+Une demi-heure, s'il vous plaît, madame Bryce
 
 8
-00:00:21,140 --> 00:00:22,479
-Retraite !
+00:01:16,690 --> 00:01:16,790
+Une demi-heure, s'il vous plaît, madame Bryce
 
 9
-00:00:25,360 --> 00:00:29,100
-Aller dans la ville, tuez tout sur votre passage.
+00:01:16,790 --> 00:01:16,910
+M. Arnstein est-il de retour ?
+Une demi-heure, s'il vous plaît, madame Bryce
 
 10
-00:00:37,480 --> 00:00:38,820
-Faites les tomber !
+00:01:16,910 --> 00:01:18,760
+M. Arnstein est-il de retour ?
 
 11
-00:01:00,340 --> 00:01:01,620
-Au combat !
+00:01:18,860 --> 00:01:21,730
+Non pas encore. je garderai un oeil
 
 12
-00:01:01,620 --> 00:01:03,000
-Fight to the last man!
+00:01:21,830 --> 00:01:23,620
+Merci
 
 13
-00:01:03,000 --> 00:01:04,780
-Battez-vous pour vos vies !
+00:01:23,720 --> 00:01:25,480
+A quelle heure est le train ?
 
 14
-00:01:04,780 --> 00:01:06,000
-Gandalf!
+00:01:25,580 --> 00:01:27,430
+le Telegram vient de dire ce soir?
 
 15
-00:01:10,660 --> 00:01:12,020
-Gandalf!
+00:01:27,530 --> 00:01:29,020
+Tu penses que tu iras d'abord à la maison ?
 
 16
-00:01:12,020 --> 00:01:13,500
-Denethor a perdu l'esprit!
+00:01:29,130 ​​--> 00:01:31,470
+Ma mère est là au cas où
+elle appellera s'il se montre
 
 17
-00:01:14,840 --> 00:01:16,200
-Il est en train de brûler Faramir vivant
+00:01:32,220 --> 00:01:33,880
+vous nerveux.
 
 18
-00:01:16,740 --> 00:01:17,260
-Viens!
+00:01:33,990 --> 00:01:35,990
+Moi nerveux, ouais.
 
 19
-00:01:18,020 --> 00:01:18,520
-Vite!
+00:01:39,720 --> 00:01:41,750
+Nerveux, excité, heureux.
 
 20
-00:01:25,960 --> 00:01:27,420
-Retourne dans les abysses !
+00:01:41,850 --> 00:01:44,330
+Effrayé. Vous l'appelez, je le suis.
 
 21
-00:01:28,740 --> 00:01:31,960
-Tombez dans le néant qui vous attend vous et votre maître !
+00:01:45,800 --> 00:01:47,410
+Bien sûr, elle est nerveuse.
 
 22
-00:01:32,420 --> 00:01:38,100
-Tu ne reconnais pas la mort quand tu la vois vieil homme ?
+00:01:47,520 --> 00:01:49,120
+qui ne serait pas nerveux.
 
 23
-00:01:39,460 --> 00:01:42,160
-C'est mon heure !
+00:01:49,220 --> 00:01:51,220
+Dommage que vous ayez un spectacle à faire.
 
 24
-00:02:03,880 --> 00:02:05,880
-Tu as echoué...
+00:01:51,750 --> 00:01:54,920
+Oh, arrête, Dieu merci, j'ai un spectacle à faire.
 
 25
-00:02:07,960 --> 00:02:11,160
-Le monde des hommes va tomber
+00:01:55,220 --> 00:01:56,110
+Qu'est-ce qu'elle doit être ?
 
 26
-00:02:57,940 --> 00:02:59,940
-Gondor!
+00:01:56,220 --> 00:01:59,620
+Nerveux Fannies gagne sa vie
+sur scène depuis qu'elle a 13 ans
 
 27
-00:03:09,760 --> 00:03:11,720
-Courage Merry,
+00:01:59,720 --> 00:02:01,570
+12
 
 28
-00:03:11,720 --> 00:03:13,740
-courage pour nos amis.
+00:02:01,670 --> 00:02:02,920
+11 Maman
 
 29
-00:03:17,600 --> 00:03:19,600
-Formez les rangs, insignifiants!
+00:02:03,020 --> 00:02:04,030
+Je pensais 13.
 
 30
-00:03:19,600 --> 00:03:20,860
-Formez les rangs! 
+00:02:04,130 --> 00:02:05,800
+Mais qu'est ce que je sais?
 
 31
-00:03:20,860 --> 00:03:23,300
-Piquier à l'avant, les archers derrière!
+00:02:05,910 --> 00:02:08,780
+Hé, de toute façon, ça fait beaucoup d'années.
 
 32
-00:03:32,280 --> 00:03:33,300
-Éomer!
+00:02:08,910 --> 00:02:10,910
+Qu'est-ce que tu regardes chérie?
 
 33
-00:03:33,300 --> 00:03:35,320
-Amenez votre Éored sur le flanc gauche !
+00:02:11,660 --> 00:02:15,210
+Des années toutes ces années.
 
 34
-00:03:35,320 --> 00:03:36,120
-Soyez prêt !
+00:02:15,990 --> 00:02:17,360
+assez regarder.
 
 35
-00:03:36,720 --> 00:03:37,700
-Viel homme,
+00:02:17,460 --> 00:02:19,460
+On joue aux cartes ou quoi ?
 
 36
-00:03:37,700 --> 00:03:39,480
-Suivez la bannière du rois au centre.
+00:02:25,860 --> 00:02:26,750
+Oh. Je suis dehors,
 
 37
-00:03:39,840 --> 00:03:40,840
-Grimbold!
+00:02:26,850 --> 00:02:28,030
+j'ai soulevé
 
 38
-00:03:40,840 --> 00:03:43,120
-Prenez votre compagnie juste après avoir passé le mur !
+00:02:28,130 --> 00:02:30,130
+elle a élevé ?
 
 39
-00:03:43,600 --> 00:03:44,380
-Forth!
+00:02:30,860 --> 00:02:33,990
+Je pense que vous bluffez, M. Straight
+bluff d'argent.
 
 40
-00:03:44,380 --> 00:03:45,660
-Et ne crains pas l'obscurité!
+00:02:34,470 --> 00:02:35,920
+Je le pense.
 
 41
-00:03:46,940 --> 00:03:47,800
-Ils arrivent!
+00:02:36,020 --> 00:02:37,510
+Je le pense.
 
 42
-00:03:47,800 --> 00:03:49,540
-Ils arrivent! Les cavaliers de Théoden!
+00:02:37,610 --> 00:02:39,220
+Toi au visage de verre.
 
 43
-00:03:50,740 --> 00:03:52,400
-Les lances vont êtres défaites!
+00:02:39,330 --> 00:02:40,780
+Je pense que tu n'as rien.
 
 44
-00:03:53,360 --> 00:03:55,193
-Les boucliers seront brisés!
+00:02:40,880 --> 00:02:41,890
+Sarah tout droit.
 
 45
-00:03:56,340 --> 00:03:57,480
-Le jour des épées!
+00:02:42,000 --> 00:02:45,530
+Gosh, vous n'avez pas un deuxième as.
 
 46
-00:03:57,800 --> 00:03:59,017
-Le jour du sang !
+00:02:46,580 --> 00:02:50,970
+Alors mon conseil pour toi chérie
+c'est un qui monte dans ta bouche
 
 47
-00:04:00,220 --> 00:04:03,440
-Avant que le soleil ne se lève !
+00:02:51,570 --> 00:02:53,570
+et mettre l'argent.
 
 48
-00:04:10,620 --> 00:04:12,620
-Quoiqu'il advienne
+00:02:57,330 --> 00:02:59,780
+Là, comment t'as bluffé avec rien
 
 49
-00:04:12,620 --> 00:04:15,340
-Reste avec moi, je veille sur toi
+00:03:00,020 --> 00:03:02,160
+si vous en avez. c'est pas du bluff
 
 50
-00:04:22,140 --> 00:04:23,260
-Pars maintenant!
+00:03:03,440 --> 00:03:04,870
+vous les montrez comme un hétéro.
 
 51
-00:04:25,460 --> 00:04:27,240
-Maintenant!
+00:03:04,970 --> 00:03:06,970
+En parlant de les bluffer sans rien.
 
 52
-00:04:28,340 --> 00:04:29,580
-Pars!
+00:03:07,130 --> 00:03:09,660
+Oh, et M. Ziegfeld vous attend.
 
 53
-00:04:29,580 --> 00:04:30,980
-Pars pour la ruine!
+00:03:09,890 --> 00:03:14,300
+Vous entendez que M. Striker, Ziegfeld
+m'attend.
 
 54
-00:04:31,260 --> 00:04:34,160
-Et pour la fin des mondes
+00:03:14,460 --> 00:03:15,880
+Pas encore pour vous.
 
 55
-00:04:36,080 --> 00:04:37,640
-La mort !
+00:03:15,990 --> 00:03:17,470
+Ziegfeld n'attend pas.
 
 56
-00:04:48,060 --> 00:04:50,200
-La mort !
+00:03:17,580 --> 00:03:21,410
+OK, alors peut-être qu'aujourd'hui c'est seulement Tom Kenny,
+mais il a un théâtre
 
 57
-00:04:55,093 --> 00:04:58,193
-Eorlingas le quatrième!
+00:03:21,530 --> 00:03:23,170
+avec une scène et un public.
 
 58
-00:05:40,920 --> 00:05:42,100
-Feu !
+00:03:23,270 --> 00:03:25,270
+Il ne s'agit pas de ce qu'il a.
 
 59
-00:05:52,020 --> 00:05:53,480
-Chargez!
+00:03:25,380 --> 00:03:26,830
+C'est ce qu'elle ne fait pas.
 
 60
-00:05:53,480 --> 00:05:54,900
-Feu a volonté!
+00:03:26,940 --> 00:03:28,090
+Qu'est-ce que je n'ai pas ?
 
+61
+00:03:28,190 --> 00:03:30,500
+écoute fanny,
+quand tu étais petit
+
+62
+00:03:30,600 --> 00:03:33,920
+et fait avec des grimaces ? C'était mignon.
+
+63
+00:03:34,140 --> 00:03:35,470
+Mes condoléances.
+
+64
+00:03:35,570 --> 00:03:40,260
+Tu n'es plus mignonne, alors chérie
+pour une fille en moyenne votre plaisir.
+
+65
+00:03:40,890 --> 00:03:45,510
+Mais quand les gens paient beaucoup d'argent,
+surtout l'élément masculin,
+
+66
+00:03:45,890 --> 00:03:49,100
+ils veulent un petit quelque chose. Regarder.
